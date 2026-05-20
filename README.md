@@ -1,4 +1,4 @@
-<h1 align="center">ᕙ(^▿^-ᕙ) Hey there! I'm Chheav Kimheng</h1>
+<h1 align="center">Hey there! I'm Chheav Kimheng ᕙ(^▿^-ᕙ) </h1>
 
 <p align="center">
   <a href="https://github.com/chheavkimheng">
