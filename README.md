@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Chheav%20Kimheng&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+
 <h1 align="center">Hey there! I'm Chheav Kimheng ᕙ(^▿^-ᕙ) </h1>
 
 <p align="center">
@@ -34,7 +36,7 @@
 </div>
 
 <br/>
-<h1 align="center">Languages🤖</h1>
+<h1 align="center">Languages & Tech 🤖</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring boot logo"  />
@@ -73,7 +75,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <!-- GitHub: using a light-colored alternative via skillicons -->
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="github actions logo"  />
