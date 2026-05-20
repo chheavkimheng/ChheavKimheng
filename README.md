@@ -1,4 +1,11 @@
-<h2 align="center">Hello, I am Chheav Kimheng </h2> 
+<h1 align="center">ᕙ(^▿^-ᕙ) Hey there! I'm Chheav Kimheng</h1>
+<h3 align="center">🚀 Full Stack Developer · Building things for the web, front to back</h3>
+
+<p align="center">
+  I'm a passionate full stack developer who loves crafting clean, scalable web applications.<br/>
+  From pixel-perfect UIs to robust backend systems — I enjoy every layer of the stack.<br/>
+  Always learning, always building. Let's connect!
+</p>
 
 ###
 <div align="center">
@@ -7,16 +14,16 @@
 
 ###
 <div align="center">
-  <a href="https://www.linkedin.com/in/suos-sovanrith/" target="_blank">
+  <a href="https://www.linkedin.com/in/kimheng-chheav-278a34296/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35.71" alt="linkedin logo"  />
   </a>
-  <a href="mailto:suossovanrith.dev@gmail.com" target="_blank">
+  <a href="mailto:chheavvkimheng@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35.71" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/SUOS_Htirnavos" target="_blank">
+  <a href="https://t.me/chheavkimheng" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35.71" alt="telegram logo"  />
   </a>
-  <a href="https://discordapp.com/users/1203317250065432597" target="_blank">
+  <a href="https://discordapp.com/users/1359191792490123547" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35.71" alt="discord logo"  />
   </a>
 </div>
@@ -26,11 +33,11 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring boot logo"  />
-  <img width="12" /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="hibernate logo"  />
-  <img width="12" /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" /> 
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
@@ -49,11 +56,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <!-- Express: using wordmark variant for better visibility -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="express logo" style="filter: invert(1);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
@@ -61,9 +69,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <!-- GitHub: using a light-colored alternative via skillicons -->
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="github action logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="github actions logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
@@ -88,10 +97,5 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/suossovanrith/suossovanrith/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-<div align="center">
- <!-- <img src="https://streak-stats.demolab.com?user=SuosSovanrith&theme=tokyonight-duo&border_radius=2.5&mode=weekly" height="200" alt="streak graph"/>
+  <img src="https://raw.githubusercontent.com/chheavkimheng/chheavkimheng/output/snake.svg" alt="Snake animation" />
 </div>
