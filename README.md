@@ -103,3 +103,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/chheavkimheng/chheavkimheng/output/snake.svg" alt="Snake animation" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer)
