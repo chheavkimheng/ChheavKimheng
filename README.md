@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Chheav Kimheng ᕙ(^▿^-ᕙ) </h1>
+<h1 align="center">ᕙ(^▿^-ᕙ) Hey there! I'm Chheav Kimheng</h1>
 
 <p align="center">
   <a href="https://github.com/chheavkimheng">
@@ -34,7 +34,7 @@
 </div>
 
 <br/>
-<h1 align="center">Tech 👾</h1>
+<h1 align="center">Languages🤖</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring boot logo"  />
@@ -100,11 +100,21 @@
 </div>
 
 ###
-<h3 align="center">🎵 Now Playing</h3>
+<h3 align="center">🏆 Trophies</h3>
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=chheavkimheng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
+</div>
+
+###
+<h3 align="center">📊 Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chheavkimheng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chheavkimheng&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="top languages" />
+</div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chheavkimheng&theme=tokyonight&hide_border=true&border_radius=5" alt="streak stats" />
 </div>
 
 ###
