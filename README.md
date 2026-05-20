@@ -1,5 +1,10 @@
 <h1 align="center">ᕙ(^▿^-ᕙ) Hey there! I'm Chheav Kimheng</h1>
-<h3 align="center">🚀 Full Stack Developer · Building things for the web, front to back</h3>
+
+<p align="center">
+  <a href="https://github.com/chheavkimheng">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Node.js;Always+learning%2C+always+building+%F0%9F%94%A5;Let%27s+build+something+cool+together!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   I'm a passionate full stack developer who loves crafting clean, scalable web applications.<br/>
@@ -92,6 +97,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" alt="eslint logo"  />
+</div>
+
+###
+<h3 align="center">🎵 Now Playing</h3>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ###
