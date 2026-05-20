@@ -9,7 +9,7 @@
 
 ###
 <div align="center">
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="400" height="225.00" />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/chheavkimheng/chheavkimheng/main/assets/profile.gif" width="400" height="250" />
 </div>
 
 ###
@@ -60,8 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <!-- Express: using wordmark variant for better visibility -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="express logo" style="filter: invert(1);" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
